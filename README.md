@@ -1,16 +1,27 @@
-## Hi there 👋
+# Mark Liu
 
-<!--
-**markhenanliu/markhenanliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analytical operator learning how to build.
 
-Here are some ideas to get you started:
+UCLA MSBA '26 in Applied Data Science & ML. Undergrad at CMU in
+Business and Decision Science. Background across strategy and ops,
+commercial risk and analytics, consulting, and product — TikTok Shop,
+Aon, Vernonburg Group, NetApp.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Currently Building
+
+E-commerce analytics project with a conversational React interface.
+Recruiting automation pipeline. Personal relationship management system.
+
+---
+
+## Interests
+
+Photographer · Barista & Sommelier in Training · Never made it in sports (Golf, Basketball, Tennis, Motorsports)
+
+## Currently Reading
+The Moon and Sixpence — W. Somerset Maugham
+
+## Last Read
+The Fall — Albert Camus
