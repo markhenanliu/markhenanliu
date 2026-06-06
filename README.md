@@ -17,7 +17,7 @@ consulting, and product — TikTok Shop, Aon, Vernonburg Group, NetApp.
 - Grad photographer booking platform — hyperlocal P2P marketplace
 
 
-## Interests
+## On the Weekend
 
 Photographer · Barista & Sommelier in Training · Never made it in sports (Golf, Basketball, Tennis, Motorsports)
 
