@@ -7,14 +7,12 @@ Business and Decision Science. Background across strategy and ops,
 commercial risk and analytics, consulting, and product — TikTok Shop,
 Aon, Vernonburg Group, NetApp.
 
----
 
 ## Currently Building
 
 E-commerce analytics project with a conversational React interface.
 Recruiting automation pipeline. Personal relationship management system.
 
----
 
 ## Interests
 
