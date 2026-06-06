@@ -11,8 +11,6 @@ consulting, and product — TikTok Shop, Aon, Vernonburg Group, NetApp.
 
 ## Currently Building
 
-- E-commerce analytics project with a conversational React interface
-- Recruiting automation pipeline and personal relationship management system
 - TikTok AI feature expansion analysis
 - Grad photographer booking platform — hyperlocal P2P marketplace
 
