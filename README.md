@@ -21,7 +21,8 @@ consulting, and product — TikTok Shop, Aon, Vernonburg Group, NetApp.
 Photographer · Barista & Sommelier in Training · Never made it in sports (Golf, Basketball, Tennis, Motorsports)
 
 ## Currently Reading
-The Moon and Sixpence — W. Somerset Maugham
+The Trial — Kafka
 
 ## Last Read
+The Moon and Sixpence — W. Somerset Maugham
 The Fall — Albert Camus
