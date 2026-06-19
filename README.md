@@ -24,5 +24,5 @@ Photographer · Barista & Sommelier in Training · Never made it in sports (Golf
 The Trial — Kafka
 
 ## Last Read
-The Moon and Sixpence — W. Somerset Maugham
+The Moon and Sixpence — W. Somerset Maugham  
 The Fall — Albert Camus
