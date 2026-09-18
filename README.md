@@ -12,8 +12,8 @@ consulting, and product — TikTok Shop, Aon, Vernonburg Group, NetApp.
 
 ## Currently Building
 
+- Tassle: Grad photographer booking platform — hyperlocal P2P marketplace
 - TikTok AI feature expansion analysis
-- Grad photographer booking platform — hyperlocal P2P marketplace
 
 
 ## On the Weekend
