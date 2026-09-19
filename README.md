@@ -1,5 +1,4 @@
 # Mark Liu
-[itsmarkliu.com](itsmarkliu.com)
 
 Human.
 
